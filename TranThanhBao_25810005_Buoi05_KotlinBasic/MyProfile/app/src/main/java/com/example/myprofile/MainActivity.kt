@@ -1,3 +1,4 @@
+// Tran Thanh Bao - 25810005
 package com.example.myprofile
 
 import android.os.Bundle
@@ -117,7 +118,7 @@ fun ProfileScreen(modifier: Modifier = Modifier) {
         }
         Spacer(modifier = Modifier.weight(1f))
         ContactInfoSection(
-            phoneNumber = "0979606120", socialHandle = "@AndroidDev", email = "thanhan@android.com"
+            phoneNumber = "0979606120", socialHandle = "@AndroidDev", email = "thanhbao@android.com"
         )
     }
 }

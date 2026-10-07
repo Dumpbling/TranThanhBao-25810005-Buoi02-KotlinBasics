@@ -1,3 +1,4 @@
+// Tran Thanh Bao - 25810005
 package com.example.diceroller
 
 import android.os.Bundle

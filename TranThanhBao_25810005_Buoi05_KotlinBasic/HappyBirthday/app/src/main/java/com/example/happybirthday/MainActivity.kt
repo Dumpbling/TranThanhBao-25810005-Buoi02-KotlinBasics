@@ -1,3 +1,4 @@
+// Tran Thanh Bao - 25810005
 package com.example.happybirthday
 
 import android.os.Bundle
@@ -35,7 +36,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     GreetingImage(
                         message = stringResource(R.string.happy_birthday_text),
-                        from = "From Emma"
+                        from = "From Bao"
                     )
                 }
             }
